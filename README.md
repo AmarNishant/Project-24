@@ -1,2 +1,2 @@
-# Project-24
-Geographic expedition
+# Geologist
+Geologist Project
